@@ -1,0 +1,8 @@
+name: "website-ko"
+navbar:
+  title: "Website-Ko"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
